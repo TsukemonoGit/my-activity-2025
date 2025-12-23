@@ -46,18 +46,18 @@ Nostrは単なる情報発信の場ではなく、monoという人間が「存�
 
 | 月 | 主要テーマ | 開発の動き | Nostrのハイライト (Engagement) |
 |:---|:---|:---|:---|
-| **1月** | **UIの黎明** | Zapフィードバックの微調整 | 挨拶やP3風投稿等の遊び心 ([link](https://lumilumi.app/note1g3smhrj2s8dygejldf2332d5d7ec09lt594wev53q762y9afyg6spnwtsn)) |
-| **2月** | **パンとコード** | kinds周りの低レイヤー実装 | **「ぴえんぴ」パン作り失敗が大バズり** ([link](https://lumilumi.app/note1rkn5fve48pyanm7xxjh066mcyguran2e2y3smyhawrgehms27cyspflr8j)) |
-| **3月** | **ロジックの結実** | 誕生日判定・ログインフロー刷新 | **「ﾔｯﾀｰ!!」報告にZapが集中** ([link](https://lumilumi.app/note15m2g4xfvvk926pt55kvep53566dvs29nejsre8c2saju04afa9eqhgk7u2)) |
-| **4月** | **AIとの共創** | **ClaudeによるUI生成** | 「あさー！」挨拶の定着 ([link](https://lumilumi.app/note12wnhpx806any83plzkhn4ej4fxqydhe49mvj593fsuz6g8rz9kqsstews7)) |
-| **5月** | **多様性の拡張** | 双子座変換・情報の集約機能 | 自作クライアントを通じた情報整理 ([link](https://lumilumi.app/note1urne32c04ps5xxtuuj3d6dqhy736tc8tzpyu07r8ch7wlh9v468sdlg7yj)) |
-| **6月** | **技術と野心** | kind:5(削除)タグの最適化 | **月間最多エンゲージメント獲得(料理画像等)** ([link](https://lumilumi.app/note1qvlkh3sapxfzn3vw8l5tceuyw9r6whga0s5hf9nu6tzucg97rkjqxhqcy9)) |
-| **7月** | **熱狂の真夏** | **年間最大開発ピーク** | 怒涛の開発実況と高いリアクション継続 ([link](https://lumilumi.app/note1g5fnfqhkkq89v3twy2xqk9tkn7gtcs7fcdt8fmfh7s8cyyxyjtds0te4ld)) |
-| **8月** | **インフラの試練** | らずぴ診断スクリプト開発 | **SSD故障の冷静な論理診断** ([link](https://lumilumi.app/note147jynawe80ner9j7430lelqpf8njnczng8xcxl284a79kfw7ecxqlphqve)) |
-| **9月** | **スタンプと拡散** | Docker環境のDockerize | **カスタムスタンプ作成によるリポストの連鎖** ([link](https://lumilumi.app/note1vm0ea8v64k6v88nsshf3phqxu032hwgx0ndx0ytfwzc2xlvwtyeqtwf80v)) |
-| **10月** | **物理と規律** | Pixelバッテリー問題の対応 | 「焦りが足りてない」金言 ([link](https://lumilumi.app/note1s2vyce8auxl2wg9v4hte9e8yz4dn4ykfnjlvmfrewgarnd34yxsqrp53c3)) |
-| **11月** | **GPSと外部連携** | `CourseEditorActivity` 構想 | **「一億円欲しい」**。共通の煩悩への共感 ([link](https://lumilumi.app/note18tcwqxnmpkxas2r4hcup06rphyt743zc7z6wj6w9wtfk80lf7u5qdzjfas)) |
-| **12月** | **AIとの統合** | **Antigravityとの共同作業** | 一年のまとめ過程そのものが対話の種に ([link](https://lumilumi.app/note1j7uwjlqlr2yalnfldhmjc5l62638wl5m0lhu0nxejee6zcssv3sqqlsu5e)) |
+| **1月** | **UIの黎明** | Zapフィードバックの微調整 | 挨拶やP3風投稿等の遊び心 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqypzxrwuwf2qa53rxta492x9fk3hm8puhawsk4m9jjyrmfgsh4y3r2m0dz3m)) |
+| **2月** | **パンとコード** | kinds周りの低レイヤー実装 | **「ぴえんぴ」パン作り失敗が大バズり** ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyqw6w39nx5uynk00cc62altt0q3rs0kdt9gjxrvjl4cdrxlwptmqjaqk9yt)) |
+| **3月** | **ロジックの結実** | 誕生日判定・ログインフロー刷新 | **「ﾔｯﾀｰ!!」報告にZapが集中** ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyzndfz5e93jc4tg9wjjenyxjxntf4jpgk0x2q0ylp2rkt37h485hy8xhth8)) |
+| **4月** | **AIとの共創** | **ClaudeによるUI生成** | 「あさー！」挨拶の定着 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqypf6wuycaltkvs7y8u267whx24ycq3klx5hdj2sk9xrstfquvgkcz2xyvzy)) |
+| **5月** | **多様性の拡張** | 双子座変換・情報の集約機能 | 自作クライアントを通じた情報整理 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyrsw0x9tp75xzsce0nj29hf5zun68f0qavgyn3lcvlzlem7u4jhg7gpn6vg)) |
+| **6月** | **技術と野心** | kind:5(削除)タグの最適化 | **月間最多エンゲージメント獲得(料理画像等)** ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyqpn767xr5yey2w93cl730r8s3c50f6ar47zjayk0nfvtnpqhcw6gryr5er)) |
+| **7月** | **熱狂の真夏** | **年間最大開発ピーク** | 怒涛の開発実況と高いリアクション継続 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqypz3xdyz76cqu4j9dc3gczc4w60ep0zre8p4va8dxl6qlqsscjfdkgkphcc)) |
+| **8月** | **インフラの試練** | らずぴ診断スクリプト開発 | **SSD故障の冷静な論理診断** ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyzh6gj04mya70yvkt6k9ll8uq9y7w20q2dqumqmag7hhcke9mm8qc4s0yzc)) |
+| **9月** | **スタンプと拡散** | Docker環境のDockerize | **カスタムスタンプ作成によるリポストの連鎖** ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqypndl85an2kmfsu7wzzaxyxuqm3792aeqe7d5eu3d9ctpgma3evny8azhsz)) |
+| **10月** | **物理と規律** | Pixelバッテリー問題の対応 | 「焦りが足りてない」金言 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyzpfsnrylhsmafeq4jka0yhyus24kw5jexwtandy09er5wdkx5s6qmpj7fp)) |
+| **11月** | **GPSと外部連携** | `CourseEditorActivity` 構想 | **「一億円欲しい」**。共通の煩悩への共感 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyqa0pcq60vxcmkpgwklrs9lgvxu306kytrctf6tfc4edxcala8mjsnyf6gz)) |
+| **12月** | **AIとの統合** | **Antigravityとの共同作業** | 一年のまとめ過程そのものが対話の種に ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyztm36turudgnh7d8aklwtznlft2yam7ndl7l37vmxt88gtzzpjxqkt3vqz)) |
 
 ---
 
