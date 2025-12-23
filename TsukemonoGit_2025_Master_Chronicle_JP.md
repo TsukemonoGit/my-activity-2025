@@ -46,18 +46,18 @@ Nostrは単なる情報発信の場ではなく、monoという人間が「存�
 
 | 月 | 主要テーマ | 開発の動き | Nostrのハイライト (Engagement) |
 |:---|:---|:---|:---|
-| **1月** | **UIの黎明** | Zapフィードバックの微調整 | 挨拶やペルソナ3等の「遊び心」がコミュニティに受け入れられる |
-| **2月** | **パンとコード** | kinds周りの低レイヤー実装 | **「ぴえんぴ」パン作り失敗が大バズり(Reactions: 9)**。人間味の魅力が爆発 |
-| **3月** | **ロジックの結実** | 誕生日判定・ログインフロー刷新 | **「ﾔｯﾀｰ!!」報告にZapが集中**。技術的成果が祝福の対象に |
-| **4月** | **AIとの共創** | **ClaudeによるUI生成** | 「あさー！」という挨拶の定着。AI活用が新たな創作スタイルに |
-| **5月** | **多様性の拡張** | 双子座変換・情報の集約機能 | 自作クライアントを通じた情報整理に対し、高い実用的な評価 |
-| **6月** | **技術と野心** | kind:5(削除)タグの最適化 | **ペペロンチーノ技術の向上と政治的野心**へのユーモラスな反応 |
-| **7月** | **熱狂の真夏** | **年間最大開発ピーク(1,700+アクティビティ)** | 怒涛の開発実況に、常に2桁に近いエンゲージメントが継続 |
-| **8月** | **インフラの試練** | らずぴ診断スクリプト開発 | **SSD故障の冷静な論理診断**が「エンジニアの鑑」として注目を集める |
-| **9月** | **スタンプと拡散** | Docker環境のDockerize(苦戦) | **カスタムスタンプ作成によるリポストの連鎖**。文化層への貢献 |
-| **10月** | **物理と規律** | Pixelバッテリー問題の対応 | 「焦りが足りてない」というストレートな言葉に、多くのユーザーが背筋を正す |
-| **11月** | **GPSと外部連携** | `CourseEditorActivity` 構想 | **「一億円欲しい」**。誰もが抱く煩悩に、年間最大級の親近感が寄せられる |
-| **12月** | **AIとの統合** | **Antigravityとの共同作業** | 一年のまとめを作る過程そのものが、コミュニティとの対話の種に |
+| **1月** | **UIの黎明** | Zapフィードバックの微調整 | 挨拶やP3風投稿等の遊び心 ([link](https://lumilumi.app/note1g3smhrj2s8dygejldf2332d5d7ec09lt594wev53q762y9afyg6spnwtsn)) |
+| **2月** | **パンとコード** | kinds周りの低レイヤー実装 | **「ぴえんぴ」パン作り失敗が大バズり** ([link](https://lumilumi.app/note1rkn5fve48pyanm7xxjh066mcyguran2e2y3smyhawrgehms27cyspflr8j)) |
+| **3月** | **ロジックの結実** | 誕生日判定・ログインフロー刷新 | **「ﾔｯﾀｰ!!」報告にZapが集中** ([link](https://lumilumi.app/note15m2g4xfvvk926pt55kvep53566dvs29nejsre8c2saju04afa9eqhgk7u2)) |
+| **4月** | **AIとの共創** | **ClaudeによるUI生成** | 「あさー！」挨拶の定着 ([link](https://lumilumi.app/note12wnhpx806any83plzkhn4ej4fxqydhe49mvj593fsuz6g8rz9kqsstews7)) |
+| **5月** | **多様性の拡張** | 双子座変換・情報の集約機能 | 自作クライアントを通じた情報整理 ([link](https://lumilumi.app/note1urne32c04ps5xxtuuj3d6dqhy736tc8tzpyu07r8ch7wlh9v468sdlg7yj)) |
+| **6月** | **技術と野心** | kind:5(削除)タグの最適化 | **月間最多エンゲージメント獲得(料理画像等)** ([link](https://lumilumi.app/note1qvlkh3sapxfzn3vw8l5tceuyw9r6whga0s5hf9nu6tzucg97rkjqxhqcy9)) |
+| **7月** | **熱狂の真夏** | **年間最大開発ピーク** | 怒涛の開発実況と高いリアクション継続 ([link](https://lumilumi.app/note1g5fnfqhkkq89v3twy2xqk9tkn7gtcs7fcdt8fmfh7s8cyyxyjtds0te4ld)) |
+| **8月** | **インフラの試練** | らずぴ診断スクリプト開発 | **SSD故障の冷静な論理診断** ([link](https://lumilumi.app/note147jynawe80ner9j7430lelqpf8njnczng8xcxl284a79kfw7ecxqlphqve)) |
+| **9月** | **スタンプと拡散** | Docker環境のDockerize | **カスタムスタンプ作成によるリポストの連鎖** ([link](https://lumilumi.app/note1vm0ea8v64k6v88nsshf3phqxu032hwgx0ndx0ytfwzc2xlvwtyeqtwf80v)) |
+| **10月** | **物理と規律** | Pixelバッテリー問題の対応 | 「焦りが足りてない」金言 ([link](https://lumilumi.app/note1s2vyce8auxl2wg9v4hte9e8yz4dn4ykfnjlvmfrewgarnd34yxsqrp53c3)) |
+| **11月** | **GPSと外部連携** | `CourseEditorActivity` 構想 | **「一億円欲しい」**。共通の煩悩への共感 ([link](https://lumilumi.app/note18tcwqxnmpkxas2r4hcup06rphyt743zc7z6wj6w9wtfk80lf7u5qdzjfas)) |
+| **12月** | **AIとの統合** | **Antigravityとの共同作業** | 一年のまとめ過程そのものが対話の種に ([link](https://lumilumi.app/note1j7uwjlqlr2yalnfldhmjc5l62638wl5m0lhu0nxejee6zcssv3sqqlsu5e)) |
 
 ---
 
