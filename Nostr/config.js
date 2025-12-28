@@ -15,7 +15,10 @@ const PUBKEYS = process.env.NOSTR_PUBKEYS
         '5650178597525e90ea16a4d7a9e33700ac238a1be9dbf3f5093862929d9a1e60'  // npub12egp0...
     ];
 
+const NOSTR_LINK_PREFIX = process.env.NOSTR_LINK_PREFIX || 'nostr:';
+
 module.exports = {
     RELAYS,
-    PUBKEYS
+    PUBKEYS,
+    NOSTR_LINK_PREFIX
 };
