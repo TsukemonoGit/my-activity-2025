@@ -1,59 +1,61 @@
-const { SimplePool } = require('nostr-tools');
+const { NostrFetcher } = require('nostr-fetch');
 const fs = require('fs');
-const ws = require('ws');
 
-// Node.js polyfill
-global.WebSocket = ws;
-
-const RELAYS = ['wss://yabu.me', 'wss://x.kojira.io'];
-const PUBKEYS = [
-  '84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5', // npub1sjcvg...
-  '5650178597525e90ea16a4d7a9e33700ac238a1be9dbf3f5093862929d9a1e60'  // npub12egp0...
-];
+const { RELAYS, PUBKEYS } = require('./config');
 
 const START_YEAR = 2025;
 const CURRENT_DATE = new Date();
 
 async function fetchNostrActivity() {
-  const pool = new SimplePool();
+  const fetcher = NostrFetcher.init();
+  
+  console.log('Fetching Nostr text notes (kind 1) for 2025 using nostr-fetch...');
+
   let allEvents = [];
+  const startMonth = 0; // Jan
+  const now = new Date();
+  const currentYear = now.getFullYear();
+  const currentMonth = now.getMonth();
 
-  console.log('Fetching Nostr text notes (kind 1) for 2025 with monthly pagination...');
+  for (let month = startMonth; month <= currentMonth; month++) {
+    const monthLabel = `${currentYear}-${String(month + 1).padStart(2, '0')}`;
+    const since = Math.floor(new Date(currentYear, month, 1).getTime() / 1000);
+    const until = Math.floor(new Date(currentYear, month + 1, 1).getTime() / 1000);
 
-  for (let month = 0; month < 12; month++) {
-    const since = Math.floor(new Date(START_YEAR, month, 1).getTime() / 1000);
-    const until = Math.floor(new Date(START_YEAR, month + 1, 1).getTime() / 1000);
-    
-    // Stop if we reach the future
-    if (since > CURRENT_DATE.getTime() / 1000) break;
+    process.stdout.write(`- Fetching ${monthLabel}... `);
 
-    console.log(`- Fetching ${START_YEAR}-${(month + 1).toString().padStart(2, '0')}...`);
-    
     try {
-      // Fetch specifically for these two authors
-      const events = await pool.querySync(RELAYS, {
-        kinds: [1],
-        authors: PUBKEYS,
-        since: since,
-        until: until,
-        limit: 1000 // Safely fetch many events per month
-      });
-
-      console.log(`  Found ${events.length} events.`);
+      const events = await fetcher.fetchAllEvents(
+        RELAYS,
+        { authors: PUBKEYS, kinds: [1] },
+        { since, until },
+        { sort: true }
+      );
       allEvents = allEvents.concat(events);
+      console.log(`Done (${events.length} events)`);
     } catch (err) {
-      console.error(`  Error in month ${month + 1}:`, err.message);
+      console.log(`Error: ${err.message}`);
     }
   }
 
-  // Deduplicate by ID
-  const uniqueEvents = Array.from(new Map(allEvents.map(ev => [ev.id, ev])).values());
-  
-  console.log(`Total unique events fetched: ${uniqueEvents.length}`);
-  fs.writeFileSync('nostr_activity.json', JSON.stringify(uniqueEvents, null, 2), 'utf-8');
-  console.log('Saved to nostr_activity.json');
+  try {
+    console.log(`Total events fetched: ${allEvents.length}`);
 
-  pool.close(RELAYS);
+    // Final dedup (though nostr-fetch handles it, just in case)
+    const uniqueEvents = Array.from(new Map(allEvents.map(ev => [ev.id, ev])).values());
+    
+    // Sort chronologically (ascending)
+    uniqueEvents.sort((a, b) => a.created_at - b.created_at);
+
+    console.log(`Total unique events: ${uniqueEvents.length}`);
+    fs.writeFileSync('nostr_activity.json', JSON.stringify(uniqueEvents, null, 2), 'utf-8');
+    console.log('Saved result to nostr_activity.json');
+
+  } catch (err) {
+    console.error('Error processing events:', err.message);
+  } finally {
+    fetcher.shutdown();
+  }
 }
 
 fetchNostrActivity();

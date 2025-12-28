@@ -1,7 +1,7 @@
 const fs = require('fs');
 const { nip19 } = require('nostr-tools');
 
-const RELAYS = ['wss://yabu.me', 'wss://x.kojira.io'];
+const { RELAYS } = require('./config');
 
 function hexToNevent(hex) {
     try {

@@ -11,6 +11,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "nostr-fetch": "^0.17.0",
     "nostr-tools": "^2.19.4",
     "ws": "^8.18.3"
   }
