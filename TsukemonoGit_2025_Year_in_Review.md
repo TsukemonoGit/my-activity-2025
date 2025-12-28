@@ -1,6 +1,6 @@
 # 2025: A Year of Building and Connecting in the Nostr Ecosystem
 
-As we look back at 2025, the activity profile of **TsukemonoGit** (mono) tells a story of incredible focus, technical craftsmanship, and a deep commitment to the decentralized web. This wasn't just a year of "writing code"—it was a year of building bridges through the Nostr protocol, with over **57,000 posts** and **24,000 interactions** marking a milestone in digital engagement.
+As we look back at 2025, the activity profile of **TsukemonoGit** (mono) tells a story of incredible focus, technical craftsmanship, and a deep commitment to the decentralized web. This wasn't just a year of "writing code"—it was a year of building bridges through the Nostr protocol, with over **58,000 posts** and **50,000 interactions** marking a milestone in digital engagement.
 
 ## The Heart of the Work: lumilumi
 If 2025 had a centerpiece, it was undeniably **[lumilumi](https://github.com/TsukemonoGit/lumilumi)**. With a staggering **1,781 commits**, this project was the pulse of mono's developer journey. As a Nostr web client, lumilumi represents a significant effort to refine user experience in a complex, burgeoning ecosystem. The sheer volume of work here suggests not just maintenance, but a continuous evolution of features and polish.
@@ -17,7 +17,7 @@ The year was also marked by a broader vision. Beyond the main client, monocentri
 ## By the Numbers
 - **Total Contributions:** 4,720
 - **Daily Average:** ~13 contributions per day
-- **Nostr Activity:** 57,969 posts, 24,122 interactions
+- **Nostr Activity:** 58,089 posts, 50,279 interactions (48,376 reactions, 1,516 reposts, 387 zaps)
 - **Primary stack:** Svelte, TypeScript, and a dash of Python.
 
 ## Looking Forward
