@@ -1,17 +1,4 @@
 {
-  "2024-12": [
-    {
-      "id": "nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqypvtvycx08wqymermrpzk0ak2kfgjhyscureg6yls8dy9rx45a5wc23llpx",
-      "content": ":akeome:",
-      "stats": {
-        "reactions": 6,
-        "reposts": 0,
-        "zaps": 0,
-        "total": 6
-      },
-      "date": "2024-12-31T21:15:20.000Z"
-    }
-  ],
   "2025-01": [
     {
       "id": "nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyq80a5fnvxkg4pw56k79e9deuzwpzrgwsfp32w5q0c0u3g6njhgn52xwwnx",
@@ -189,17 +176,6 @@
   ],
   "2025-06": [
     {
-      "id": "nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqypam2kpa4stz7jhgyzecz64t3hzz6t0fjx4mkdl8pr694kzx4t26s364ava",
-      "content": "6/30誕生日にしよう！",
-      "stats": {
-        "reactions": 10,
-        "reposts": 1,
-        "zaps": 3,
-        "total": 14
-      },
-      "date": "2025-06-30T22:34:39.000Z"
-    },
-    {
       "id": "nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyp3tcvqj707sxvkdw5er0ef90u4z6fjepr4dkjqycxeqjtugxx6mud3af9a",
       "content": "でもいまからの内で今日が一番賞味期限から近いよ",
       "stats": {
@@ -220,6 +196,17 @@
         "total": 12
       },
       "date": "2025-06-30T09:12:34.000Z"
+    },
+    {
+      "id": "nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyzc9jgsqrrsgncm7dp5ke0662p5ykxz734058l5vuyfaxdjj49c07my478v",
+      "content": "https://tsukemonogit.github.io/M5MyRoomNostr/\nできた！",
+      "stats": {
+        "reactions": 8,
+        "reposts": 2,
+        "zaps": 0,
+        "total": 10
+      },
+      "date": "2025-06-03T03:33:13.000Z"
     }
   ],
   "2025-07": [
@@ -235,6 +222,17 @@
       "date": "2025-07-18T02:52:18.000Z"
     },
     {
+      "id": "nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqypam2kpa4stz7jhgyzecz64t3hzz6t0fjx4mkdl8pr694kzx4t26s364ava",
+      "content": "6/30誕生日にしよう！",
+      "stats": {
+        "reactions": 10,
+        "reposts": 1,
+        "zaps": 3,
+        "total": 14
+      },
+      "date": "2025-06-30T22:34:39.000Z"
+    },
+    {
       "id": "nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqypz3xdyz76cqu4j9dc3gczc4w60ep0zre8p4va8dxl6qlqsscjfdkf7c2wr",
       "content": "https://share.yabu.me/84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5/171e065b0c5e213371566ed2365c042cfd7c5da2bafac2734a9ab066ac15e60b.webp",
       "stats": {
@@ -244,17 +242,6 @@
         "total": 14
       },
       "date": "2025-07-30T13:59:56.000Z"
-    },
-    {
-      "id": "nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyru3ge7f5wrvy4h448jp5lnrztjfve832mep3emtde447u32naclgmgc22s",
-      "content": "こうですか！ https://share.yabu.me/84b0c46ab699ac35eb2ca286470b85e081db2087cdef63932236c397417782f5/cd22fab33c417c9e77728b6dd26157f4d80260563fa29a51b7da2320ee20e9e0.webp",
-      "stats": {
-        "reactions": 7,
-        "reposts": 4,
-        "zaps": 0,
-        "total": 11
-      },
-      "date": "2025-07-16T02:04:42.000Z"
     }
   ],
   "2025-08": [
@@ -410,6 +397,17 @@
       "date": "2025-12-23T10:47:29.000Z"
     },
     {
+      "id": "nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyp25k337ugvcyjf579tjvt8cn47k4ur5fqsfhezwyzvtawf6y4vw57nx9pm",
+      "content": "あのダムスはどっちも対応してないけど\n\n>カスタム絵文字とかContent Warningみたいな無数の仕様に対応するかどうかは難しい問題だ。プロトコルの慣習・仕様は増える一方なので実装しない自由があるべきだと思うが、現状実装しないと謎の文字列が出たり出るべき文章が出なかったりするので、ユーザー体験を考えると実装を強制させられてしまう。",
+      "stats": {
+        "reactions": 9,
+        "reposts": 1,
+        "zaps": 0,
+        "total": 10
+      },
+      "date": "2025-11-30T21:43:09.000Z"
+    },
+    {
       "id": "nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyp3923mdy8gt4pjn4wrkxpn5992592n9semjjfk38qh60p9t9azvcpqn99s",
       "content": "Nostrは単なる情報発信の場ではなく、monoという人間が「存在し、呼吸する」場所でした。",
       "stats": {
@@ -419,17 +417,6 @@
         "total": 10
       },
       "date": "2025-12-23T10:49:41.000Z"
-    },
-    {
-      "id": "nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyqlxjt24y97v484ym8qp4a54sfd9xnasutqdw92r0fqyh056szjvs2zh9dn",
-      "content": "おきるよ〜",
-      "stats": {
-        "reactions": 9,
-        "reposts": 0,
-        "zaps": 0,
-        "total": 9
-      },
-      "date": "2025-12-02T21:34:16.000Z"
     }
   ]
 }

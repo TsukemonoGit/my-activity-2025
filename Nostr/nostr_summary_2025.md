@@ -11,12 +11,6 @@
 
 ## 🗓️ 月間ダイジェスト (Monthly Highlights)
 
-### 📅 2024-12
-- **🌟 月間トップ投稿:**
-  - **「:akeome:」**
-    - 統計: Total 6 (Reactions: 6, Reposts: 0, Zaps: 0)
-    - nostr:nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqypvtvycx08wqymermrpzk0ak2kfgjhyscureg6yls8dy9rx45a5wc23llpx
-
 ### 📅 2025-01
 - **🌟 月間トップ投稿:**
   - **「https://zenn.dev/konemono/articles/287b7b157557c1 とりあえずなんとなく...」**
@@ -79,27 +73,27 @@
 
 ### 📅 2025-06
 - **🌟 月間トップ投稿:**
-  - **「6/30誕生日にしよう！」**
-    - 統計: Total 14 (Reactions: 10, Reposts: 1, Zaps: 3)
-    - nostr:nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqypam2kpa4stz7jhgyzecz64t3hzz6t0fjx4mkdl8pr694kzx4t26s364ava
   - **「でもいまからの内で今日が一番賞味期限から近いよ」**
     - 統計: Total 13 (Reactions: 10, Reposts: 3, Zaps: 0)
     - nostr:nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyp3tcvqj707sxvkdw5er0ef90u4z6fjepr4dkjqycxeqjtugxx6mud3af9a
   - **「https://share.yabu.me/84b0c46ab699ac35eb2ca286470b85e081db20...」**
     - 統計: Total 12 (Reactions: 8, Reposts: 4, Zaps: 0)
     - nostr:nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyqpn767xr5yey2w93cl730r8s3c50f6ar47zjayk0nfvtnpqhcw6gzv6f0c
+  - **「https://tsukemonogit.github.io/M5MyRoomNostr/ できた！」**
+    - 統計: Total 10 (Reactions: 8, Reposts: 2, Zaps: 0)
+    - nostr:nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyzc9jgsqrrsgncm7dp5ke0662p5ykxz734058l5vuyfaxdjj49c07my478v
 
 ### 📅 2025-07
 - **🌟 月間トップ投稿:**
   - **「https://zenn.dev/konemono/articles/3158b8eb637cfa  タイトルClaud...」**
     - 統計: Total 15 (Reactions: 9, Reposts: 2, Zaps: 4)
     - nostr:nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyrvak6kxr59h2pgpsfusxpxr9qxrpxjgs8vtgq6gqavc7s2p683xsae08fg
+  - **「6/30誕生日にしよう！」**
+    - 統計: Total 14 (Reactions: 10, Reposts: 1, Zaps: 3)
+    - nostr:nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqypam2kpa4stz7jhgyzecz64t3hzz6t0fjx4mkdl8pr694kzx4t26s364ava
   - **「https://share.yabu.me/84b0c46ab699ac35eb2ca286470b85e081db20...」**
     - 統計: Total 14 (Reactions: 10, Reposts: 3, Zaps: 1)
     - nostr:nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqypz3xdyz76cqu4j9dc3gczc4w60ep0zre8p4va8dxl6qlqsscjfdkf7c2wr
-  - **「こうですか！ https://share.yabu.me/84b0c46ab699ac35eb2ca286470b85e...」**
-    - 統計: Total 11 (Reactions: 7, Reposts: 4, Zaps: 0)
-    - nostr:nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyru3ge7f5wrvy4h448jp5lnrztjfve832mep3emtde447u32naclgmgc22s
 
 ### 📅 2025-08
 - **🌟 月間トップ投稿:**
@@ -154,13 +148,13 @@
   - **「https://zenn.dev/konemono/articles/f4f430c1918522 まにあったか！？」**
     - 統計: Total 29 (Reactions: 19, Reposts: 6, Zaps: 4)
     - nostr:nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyq8jlyuths29petlktqn0xc42f39dlmmvp09n90cj3y20srkvvt7y9lw2n3
+  - **「あのダムスはどっちも対応してないけど  >カスタム絵文字とかContent Warningみたいな無数の仕様に対応するか...」**
+    - 統計: Total 10 (Reactions: 9, Reposts: 1, Zaps: 0)
+    - nostr:nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyp25k337ugvcyjf579tjvt8cn47k4ur5fqsfhezwyzvtawf6y4vw57nx9pm
   - **「Nostrは単なる情報発信の場ではなく、monoという人間が「存在し、呼吸する」場所でした。」**
     - 統計: Total 10 (Reactions: 10, Reposts: 0, Zaps: 0)
     - nostr:nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyp3923mdy8gt4pjn4wrkxpn5992592n9semjjfk38qh60p9t9azvcpqn99s
-  - **「おきるよ〜」**
-    - 統計: Total 9 (Reactions: 9, Reposts: 0, Zaps: 0)
-    - nostr:nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcpp4mhxue69uhkummn9ekx7mqqyqlxjt24y97v484ym8qp4a54sfd9xnasutqdw92r0fqyh056szjvs2zh9dn
 
 ---
 **Note:** This report was generated mechanically from local JSON data.
-*Generated on: 2025/12/28 17:25:37*
+*Generated on: 2025/12/28 17:29:51*

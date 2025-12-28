@@ -37,7 +37,9 @@ function analyzeEngagement() {
 
   const monthlyEngagement = {};
   sortedNotes.forEach(n => {
-    const month = new Date(n.created_at * 1000).toISOString().substring(0, 7);
+    const d = new Date(n.created_at * 1000);
+    // Use local time grouping: YYYY-MM
+    const month = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
     if (!monthlyEngagement[month]) monthlyEngagement[month] = [];
     monthlyEngagement[month].push(n);
   });
