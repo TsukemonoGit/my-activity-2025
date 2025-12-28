@@ -1,7 +1,7 @@
 # 2025年 活動全史（Master Chronicle）：TsukemonoGit (mono) の軌跡
 
 2025年、TsukemonoGit（以下、mono）は技術的探求と自己表現、そしてコミュニティとの共鳴において、一つの到達点を迎えました。
-GitHubに刻まれた **4,720回** のコントリビューション、Nostrへの **6,049件** の投稿、そしてそれを取り巻く **10,000件超のエンゲージメント**。
+GitHubに刻まれた **4,720回** のコントリビューション、Nostrへの **57,969件** の投稿、そしてそれを取り巻く **24,122件のエンゲージメント**。
 本レポートは、一人のエンジニアがどのようにコードを書き、どのように生活し、どのように世界と対話したかを、データと文脈から多角的に解き明かす「2025年の全記録」です。
 
 ---
@@ -29,10 +29,10 @@ GitHubに刻まれた **4,720回** のコントリビューション、Nostrへ�
 Nostrは単なる情報発信の場ではなく、monoという人間が「存在し、呼吸する」場所でした。
 
 ### 📊 驚異的なエンゲージメント統計
-*   **総獲得インタラクション:** 10,000件以上
-*   **リアクション:** 7,000+ (拍手、いいね、笑い)
-*   **リポスト:** 1,500+ (情報の拡散と共鳴)
-*   **Zap:** 価値あるアウトプットに対する具体的な支援
+*   **総獲得インタラクション:** 24,122件
+*   **リアクション:** 23,285件
+*   **リポスト:** 694件
+*   **Zap:** 143件 (価値あるアウトプットに対する具体的な支援)
 
 ### 💡 影響力の源泉
 データ分析から、monoの投稿がコミュニティに与えた影響には3つのパターンがあることがわかりました。
@@ -46,18 +46,18 @@ Nostrは単なる情報発信の場ではなく、monoという人間が「存�
 
 | 月 | 主要テーマ | 開発の動き | Nostrのハイライト (Engagement) |
 |:---|:---|:---|:---|
-| **1月** | **UIの黎明** | Zapフィードバックの微調整 | 挨拶やP3風投稿等の遊び心 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqypzxrwuwf2qa53rxta492x9fk3hm8puhawsk4m9jjyrmfgsh4y3r2m0dz3m)) |
-| **2月** | **パンとコード** | kinds周りの低レイヤー実装 | **「ぴえんぴ」パン作り失敗が大バズり** ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyqw6w39nx5uynk00cc62altt0q3rs0kdt9gjxrvjl4cdrxlwptmqjaqk9yt)) |
-| **3月** | **ロジックの結実** | 誕生日判定・ログインフロー刷新 | **「ﾔｯﾀｰ!!」報告にZapが集中** ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyzndfz5e93jc4tg9wjjenyxjxntf4jpgk0x2q0ylp2rkt37h485hy8xhth8)) |
-| **4月** | **AIとの共創** | **ClaudeによるUI生成** | 「あさー！」挨拶の定着 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqypf6wuycaltkvs7y8u267whx24ycq3klx5hdj2sk9xrstfquvgkcz2xyvzy)) |
-| **5月** | **多様性の拡張** | 双子座変換・情報の集約機能 | 自作クライアントを通じた情報整理 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyrsw0x9tp75xzsce0nj29hf5zun68f0qavgyn3lcvlzlem7u4jhg7gpn6vg)) |
-| **6月** | **技術と野心** | kind:5(削除)タグの最適化 | **月間最多エンゲージメント獲得(料理画像等)** ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyqpn767xr5yey2w93cl730r8s3c50f6ar47zjayk0nfvtnpqhcw6gryr5er)) |
-| **7月** | **熱狂の真夏** | **年間最大開発ピーク** | 怒涛の開発実況と高いリアクション継続 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqypz3xdyz76cqu4j9dc3gczc4w60ep0zre8p4va8dxl6qlqsscjfdkgkphcc)) |
-| **8月** | **インフラの試練** | らずぴ診断スクリプト開発 | **SSD故障の冷静な論理診断** ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyzh6gj04mya70yvkt6k9ll8uq9y7w20q2dqumqmag7hhcke9mm8qc4s0yzc)) |
-| **9月** | **スタンプと拡散** | Docker環境のDockerize | **カスタムスタンプ作成によるリポストの連鎖** ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqypndl85an2kmfsu7wzzaxyxuqm3792aeqe7d5eu3d9ctpgma3evny8azhsz)) |
-| **10月** | **物理と規律** | Pixelバッテリー問題の対応 | 「焦りが足りてない」金言 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyzpfsnrylhsmafeq4jka0yhyus24kw5jexwtandy09er5wdkx5s6qmpj7fp)) |
-| **11月** | **GPSと外部連携** | `CourseEditorActivity` 構想 | **「一億円欲しい」**。共通の煩悩への共感 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyqa0pcq60vxcmkpgwklrs9lgvxu306kytrctf6tfc4edxcala8mjsnyf6gz)) |
-| **12月** | **AIとの統合** | **Antigravityとの共同作業** | 一年のまとめ過程そのものが対話の種に ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyztm36turudgnh7d8aklwtznlft2yam7ndl7l37vmxt88gtzzpjxqkt3vqz)) |
+| **1月** | **始動と日々の共有** | Zapフィードバックの微調整 | 落ち着いた日常の共有。「塩パンツ」 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyqvzrgqey8skcffm223mezyzst0zgttqh2cxezur835yv20qljtqg3jnerk)) |
+| **2月** | **日常の断片** | kinds周りの低レイヤー実装 | 漬物や割れた食器への哀愁。「どっこいしょー！」 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyrhq498vv82tare3q7xnw25x0hk4sgllfxsdrcw6dr4e8aft6uweq273gvz)) |
+| **3月** | **スタンプと達成感** | 誕生日判定・ログインフロー刷新 | 技術的進捗(541クリック)への言及。「たいそうなものをおもちのおもちさん」 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyzxn427u40e22ce6s66vfmtwhxzlh4xeew762vxqllqeuyx88rsjj0f74nj)) |
+| **4月** | **クリエイティブな試行** | ClaudeによるUI生成 | 試行錯誤の日常。「ちょっとずつ微塵に」 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyqa9t72myz6mhmwvq7p3sk70e2fqsevjw0mf68dcaremqxtn6jehq59pfne)) |
+| **5月** | **技術とユーモア** | 双子座変換・情報の集約機能 | 技術用語へのユーモア。「進捗コールバックって強風オールバックみたい」 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqypulx4z3466lg20vrz99m5sjyujyyft5muykp6dnekya2w9f0cz7qcxlfg7)) |
+| **6月** | **料理と独り言** | kind:5(削除)タグの最適化 | 料理の発見。「塩抜きしてない肉の塩漬けといっしょに麺茹でたらまあまあいいくらいになった」 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyqqfsdld0hsrtsqw9u27kxtceq7r3ygfez3gqynp89lag8tvdyfdg4ffnut)) |
+| **7月** | **夏の爆発的注目** | 年間最大開発ピーク | 視覚的インパクトのある画像投稿で二桁エンゲージメント ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqypz3xdyz76cqu4j9dc3gczc4w60ep0zre8p4va8dxl6qlqsscjfdkgkphcc)) |
+| **8月** | **驚きと共有** | らずぴ診断スクリプト開発 | インパクト重視の投稿。「でっっっか！」 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyrdshry4f405k028awk6vttlvxdudy0zlqg5d8cp75yeckc2xvy2gfflskh)) |
+| **9月** | **哀愁の秋** | Docker環境のDockerize | 感情のエクスプレッション。「:very_sad:」 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqype4luu4eu0f5r7pvx32vlqe80evkxmrc25l0yvxxjt323ud9acs7ggfaag)) |
+| **10月** | **感情の揺らぎ** | Pixelバッテリー問題の対応 | コミュニティの影響と感情。「最近のすの人に影響されてカスとか殺すとか言っちゃう」 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyqqwyvctqlzsanq9nfekw5m6jpw7jt4laqr535qd90507echsew05pef99e)) |
+| **11月** | **努力の結晶** | CourseEditorActivity 構想 | アドベントカレンダー関連で年間最大のバズ ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyqhjpe78ct0446pfpr5xll39f69q0s595yqfkeln8jxpz74zlpqtj59w3h9)) |
+| **12月** | **技術発信とAI** | Antigravityとの共同作業 | Zenn記事公開とZap獲得。AI(Antigravity)への言及 ([link](https://lumilumi.app/nevent1qyxhwumn8ghj77tpvf6jumt9qyghwumn8ghj77pwddhk56tjvyhxjmcqyq8jlyuths29petlktqn0xc42f39dlmmvp09n90cj3y20srkvvt7yyhhh92)) |
 
 ---
 

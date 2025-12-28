@@ -58,8 +58,10 @@ function generateSummary(data, year) {
     return summary.join("\n");
 }
 
+const { GITHUB_YEAR } = require('./config');
+
 function main() {
-    const year = process.env.YEAR || "2025";
+    const year = GITHUB_YEAR;
     const inputFile = "activity_data.json";
 
     if (!fs.existsSync(inputFile)) {

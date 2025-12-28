@@ -1,6 +1,7 @@
 # Yearly Activity Analysis 2025
 
-このリポジトリは、TsukemonoGit (mono) の2025年における GitHub および Nostr での活動を収集・分析し、年報としてまとめたプロジェクトです。
+このプロジェクトは、GitHub および Nostr での活動を収集・分析し、年報としてまとめるためのツールセットです。
+デフォルトでは TsukemonoGit (mono) のデータに基づいたレポートが含まれていますが、コンフィグを書き換えることで**誰でも自分自身の活動レポートを生成することが可能**です。
 
 ## 📊 活動レポート
 
@@ -27,9 +28,18 @@ Nostr のデータ取得・分析用スクリプト群です。詳細は [Nostr/
 
 ## 🚀 セットアップ
 
+### 設定のカスタマイズ
+ルートディレクトリの `config.js` を編集することで、取得対象のユーザーや年を変更できます。
+
+- `GITHUB_USER_NAME`: GitHub のユーザー名
+- `GITHUB_YEAR`: 対象とする年
+
 ### 環境変数
-GitHub データの取得には、以下の環境変数が必要です：
+GitHub データの取得には、以下の環境変数が必要です。`.env.sample` を `.env` にコピーして設定してください：
+
 - `GITHUB_TOKEN`: GitHub の Personal Access Token
+- `GITHUB_USER_NAME`: (任意) GitHub のユーザー名
+- `YEAR`: (任意) 対象とする年
 
 ### 実行手順
 1. 依存関係のインストール

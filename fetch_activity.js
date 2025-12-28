@@ -1,9 +1,11 @@
 const fs = require('fs');
 
+const { GITHUB_USER_NAME, GITHUB_YEAR } = require('./config');
+
 async function fetchActivity() {
     const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-    const USER_NAME = process.env.USER_NAME || "TsukemonoGit";
-    const YEAR = process.env.YEAR || "2025";
+    const USER_NAME = GITHUB_USER_NAME;
+    const YEAR = GITHUB_YEAR;
 
     if (!GITHUB_TOKEN) {
         console.error("Error: GITHUB_TOKEN not found in environment.");
